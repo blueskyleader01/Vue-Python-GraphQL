@@ -6,8 +6,8 @@ Vue.use(VueRouter)
   const routes = []
 
 const router = new VueRouter({
-  // mode: 'history',
-  mode: 'history1',
+  mode: 'history',
+  // mode: 'history1',
   routes
 })
 
